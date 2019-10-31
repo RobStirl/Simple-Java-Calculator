@@ -108,7 +108,7 @@ public class CalculatorActionListener implements ActionListener{
 	
 	private void displayAnswer()
 	{
-		System.out.println("Display Answer");
+		//System.out.println("Display Answer");
 		int answer = 0;
 
 		switch(operator)
