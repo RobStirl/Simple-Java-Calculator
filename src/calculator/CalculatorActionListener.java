@@ -23,7 +23,7 @@ public class CalculatorActionListener implements ActionListener{
 	}
 	public void actionPerformed(ActionEvent e)
 	{
-		System.out.println("ActionEvent: " + e.getActionCommand());
+		//System.out.println("ActionEvent: " + e.getActionCommand());
 		
 		switch (e.getActionCommand())
 		{
